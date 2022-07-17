@@ -1,0 +1,1213 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/f5c45f2f-ea3f-50ca-94b0-3e585c7e7ab4",
+      "url": "https://www.nytimes.com/2022/07/14/nyregion/ivana-trump-dead.html",
+      "id": 100000008444686,
+      "asset_id": 100000008444686,
+      "source": "New York Times",
+      "published_date": "2022-07-14",
+      "updated": "2022-07-15 19:19:27",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Deaths (Obituaries);Books and Literature;Trump, Ivana;Trump, Donald J;Trump Organization;Trump Tower (Manhattan, NY)",
+      "column": null,
+      "byline": "By Clay Risen",
+      "type": "Article",
+      "title": "Ivana Trump, Ex-Wife of Donald Trump and Businesswoman, Dies at 73",
+      "abstract": "She helped build his real estate empire, though she was better known for being one half of the quintessential 1980s power couple.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Books and Literature"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Trump Tower (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Trump, Ivana",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ivana and Donald J. Trump in 1985. He announced her death on his social media platform.",
+          "copyright": "Ron Galella via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/15/obituaries/15ivanatrump-A1-SUB/14Trump1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/15/obituaries/15ivanatrump-A1-SUB/14Trump1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/15/obituaries/15ivanatrump-A1-SUB/14Trump1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a50e7c24-ecf4-5280-9f0d-6a82f81ca773",
+      "url": "https://www.nytimes.com/2022/07/12/us/envigo-beagles-breeder-adoption.html",
+      "id": 100000008435249,
+      "asset_id": 100000008435249,
+      "source": "New York Times",
+      "published_date": "2022-07-12",
+      "updated": "2022-07-13 23:44:28",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Dogs;Workplace Hazards and Violations;Animal Abuse, Rights and Welfare;Animals;Law and Legislation;Adoptions;Kaine, Timothy M;Warner, Mark R;Humane Society of the United States;Virginia",
+      "column": null,
+      "byline": "By Jesus Jiménez and April Rubin",
+      "type": "Article",
+      "title": "4,000 Beagles Are Being Rescued From a Virginia Facility. Now They Need New Homes.",
+      "abstract": "The authorities have about two months to find homes for the dogs, after they were found at a facility that had violated dozens of federal regulations.",
+      "des_facet": [
+        "Dogs",
+        "Workplace Hazards and Violations",
+        "Animal Abuse, Rights and Welfare",
+        "Animals",
+        "Law and Legislation",
+        "Adoptions"
+      ],
+      "org_facet": [
+        "Humane Society of the United States"
+      ],
+      "per_facet": [
+        "Kaine, Timothy M",
+        "Warner, Mark R"
+      ],
+      "geo_facet": [
+        "Virginia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "More than 100 beagles arrived in a truck from a breeding facility in Cumberland, Va., to Homeward Trails Animal Rescue.",
+          "copyright": "Sue Bell/Homeward Trails\n",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/11/us/00xp-beagles-02/00xp-beagles-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/11/us/00xp-beagles-02/00xp-beagles-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/11/us/00xp-beagles-02/00xp-beagles-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a20eb614-f389-5217-aef4-779602298aa3",
+      "url": "https://www.nytimes.com/2022/07/06/well/mind/memory-loss-prevention.html",
+      "id": 100000008379220,
+      "asset_id": 100000008379220,
+      "source": "New York Times",
+      "published_date": "2022-07-06",
+      "updated": "2022-07-08 10:01:15",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Memory;Depression (Mental);Books and Literature;Brain;Dementia;Alzheimer's Disease;Restak, Richard",
+      "column": null,
+      "byline": "By Hope Reese",
+      "type": "Article",
+      "title": "A Neurologist’s Tips to Protect Your Memory",
+      "abstract": "A new book by a renowned brain expert says there are a few simple things we can do to prevent memory decline as we age.",
+      "des_facet": [
+        "Content Type: Service",
+        "Memory",
+        "Depression (Mental)",
+        "Books and Literature",
+        "Brain",
+        "Dementia",
+        "Alzheimer's Disease"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Restak, Richard"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mikyung Lee",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/05/well/05Well-BetterMemory/05Well-BetterMemory-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/05/well/05Well-BetterMemory/05Well-BetterMemory-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/05/well/05Well-BetterMemory/05Well-BetterMemory-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/38b654bc-5069-5b30-8ff6-c845368f28e8",
+      "url": "https://www.nytimes.com/2022/07/13/us/politics/jan-6-conspiracy-theory-ray-epps.html",
+      "id": 100000008433547,
+      "asset_id": 100000008433547,
+      "source": "New York Times",
+      "published_date": "2022-07-13",
+      "updated": "2022-07-13 23:47:58",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);United States Politics and Government;Fringe Groups and Movements;Right-Wing Extremism and Alt-Right;Epps, Ray (1961- );House Select Committee to Investigate the January 6th Attack",
+      "column": null,
+      "byline": "By Alan Feuer",
+      "type": "Article",
+      "title": "A Trump Backer’s Downfall as the Target of a Jan. 6 Conspiracy Theory",
+      "abstract": "Ray Epps became the unwitting face of an attempt by pro-Trump forces to promote the baseless idea that the F.B.I. was behind the attack on the Capitol.",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government",
+        "Fringe Groups and Movements",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [
+        "House Select Committee to Investigate the January 6th Attack"
+      ],
+      "per_facet": [
+        "Epps, Ray (1961- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ray Epps and his wife, Robyn Epps. Mr. Epps became the face of a conspiracy theory that rocked their lives as it spread into the mainstream.",
+          "copyright": "Alan Feuer/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/us/politics/00dc-epps-1/00dc-epps-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/us/politics/00dc-epps-1/00dc-epps-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/us/politics/00dc-epps-1/00dc-epps-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7b839d5f-5e81-5c76-8044-5b334286cb4a",
+      "url": "https://www.nytimes.com/2022/07/11/science/nasa-webb-telescope-images-livestream.html",
+      "id": 100000008437774,
+      "asset_id": 100000008437774,
+      "source": "New York Times",
+      "published_date": "2022-07-11",
+      "updated": "2022-07-12 08:04:14",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Space and Astronomy;James Webb Space Telescope",
+      "column": null,
+      "byline": "By Dennis Overbye, Kenneth Chang and Jim Tankersley",
+      "type": "Article",
+      "title": "Biden and NASA Share First Webb Space Telescope Image",
+      "abstract": "From the White House on Monday, humanity got its first glimpse of what the observatory in space has been seeing: a cluster of early galaxies.",
+      "des_facet": [
+        "Space and Astronomy",
+        "James Webb Space Telescope"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Webb telescope’s image of the galaxy cluster SMACS 0723 includes thousands of galaxies, including the faintest objects ever observed in infrared. The light from SMACS 0723 in this image is 4.6 billion years old.",
+          "copyright": "NASA, ESA, CSA, and STScI",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/12/science/12webb-live-smacs-0723/12webb-live-smacs-0723-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/12/science/12webb-live-smacs-0723/12webb-live-smacs-0723-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/12/science/12webb-live-smacs-0723/12webb-live-smacs-0723-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2c8d5f9f-1b94-5126-aaaa-5fd2215e3825",
+      "url": "https://www.nytimes.com/2022/07/10/us/politics/cassidy-hutchinson-jan-6-testimony.html",
+      "id": 100000008430750,
+      "asset_id": 100000008430750,
+      "source": "New York Times",
+      "published_date": "2022-07-10",
+      "updated": "2022-07-11 21:33:14",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;Content Type: Personal Profile;Hutchinson, Cassidy;Trump, Donald J;Meadows, Mark R (1959- );Cheney, Liz;Passantino, Stefan C;Hunt, Joseph H;House Select Committee to Investigate the January 6th Attack;Christopher Newport University",
+      "column": null,
+      "byline": "By Robert Draper",
+      "type": "Article",
+      "title": "Cassidy Hutchinson: Why the Jan. 6 Committee Rushed Her Testimony",
+      "abstract": "Sequestered with family and security, Ms. Hutchinson, 26, has in the process developed an unlikely bond with Representative Liz Cheney, the panel’s vice chairwoman.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Presidential Election of 2020",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "House Select Committee to Investigate the January 6th Attack",
+        "Christopher Newport University"
+      ],
+      "per_facet": [
+        "Hutchinson, Cassidy",
+        "Trump, Donald J",
+        "Meadows, Mark R (1959- )",
+        "Cheney, Liz",
+        "Passantino, Stefan C",
+        "Hunt, Joseph H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cassidy Hutchinson, a former aide to President Donald J. Trump’s chief of staff, offered explosive testimony about Mr. Trump last month.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/us/politics/00dc-hutchinson1/00dc-hutchinson1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/us/politics/00dc-hutchinson1/00dc-hutchinson1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/us/politics/00dc-hutchinson1/00dc-hutchinson1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a8db877c-f0d3-5d9b-aaaa-fbcf6eb7d93b",
+      "url": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
+      "id": 100000008436122,
+      "asset_id": 100000008436122,
+      "source": "New York Times",
+      "published_date": "2022-07-11",
+      "updated": "2022-07-12 14:20:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Polls and Public Opinion;United States Economy;Voting and Voters;Biden, Joseph R Jr;Democratic Party",
+      "column": null,
+      "byline": "By Shane Goldmacher",
+      "type": "Article",
+      "title": "Most Democrats Don’t Want Biden in 2024, New Poll Shows",
+      "abstract": "With the country gripped by a pervasive sense of pessimism, the president is hemorrhaging support.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "United States Economy",
+        "Voting and Voters"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden in Cleveland last week. Only 26 percent of Democratic voters said the party should renominate him in 2024.",
+          "copyright": "Haiyun Jiang/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/00pol-poll-biden-photo01/00pol-poll-biden-photo01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/00pol-poll-biden-photo01/00pol-poll-biden-photo01-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/00pol-poll-biden-photo01/00pol-poll-biden-photo01-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d544a16d-f31a-5313-8d3d-e47a84fa0128",
+      "url": "https://www.nytimes.com/2022/07/13/well/move/exercise-diet-disease.html",
+      "id": 100000008440800,
+      "asset_id": 100000008440800,
+      "source": "New York Times",
+      "published_date": "2022-07-13",
+      "updated": "2022-07-15 14:43:32",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Exercise;Diet and Nutrition;Longevity;Research;British Journal of Sports Medicine",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "You Won’t Live Longer by Diet or Exercise Alone, Study Says",
+      "abstract": "Sprawling new research showed that healthy eating and regular workouts do not, in isolation, stave off later health issues. They need to be done together.",
+      "des_facet": [
+        "Content Type: Service",
+        "Exercise",
+        "Diet and Nutrition",
+        "Longevity",
+        "Research"
+      ],
+      "org_facet": [
+        "British Journal of Sports Medicine"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/13/well/13WELL-EXERICSE-STUDY1/13WELL-EXERICSE-STUDY1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/13/well/13WELL-EXERICSE-STUDY1/13WELL-EXERICSE-STUDY1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/13/well/13WELL-EXERICSE-STUDY1/13WELL-EXERICSE-STUDY1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/733d626d-1df5-525f-affc-dada091f287d",
+      "url": "https://www.nytimes.com/2022/07/06/well/ba4-ba5-variant-symptoms.html",
+      "id": 100000008431438,
+      "asset_id": 100000008431438,
+      "source": "New York Times",
+      "published_date": "2022-07-06",
+      "updated": "2022-07-07 09:55:00",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Coronavirus Omicron Variant;Content Type: Service",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "What are the symptoms of an infection with BA.4 and BA.5?",
+      "abstract": "BA.5 has become dominant in the U.S.",
+      "des_facet": [
+        "Coronavirus Omicron Variant",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1004daad-15f0-52aa-acbf-da006f81442b",
+      "url": "https://www.nytimes.com/2022/07/10/opinion/capitol-police-jan-6.html",
+      "id": 100000008430901,
+      "asset_id": 100000008430901,
+      "source": "New York Times",
+      "published_date": "2022-07-10",
+      "updated": "2022-07-11 14:26:20",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);Trump, Donald J;Gonell, Aquilino;United States Capitol Police;Republican Party;House Select Committee to Investigate the January 6th Attack",
+      "column": null,
+      "byline": "By Aquilino Gonell",
+      "type": "Article",
+      "title": "I Was Betrayed by President Trump",
+      "abstract": "My career as a Capitol policeman was cut short when I was beaten on Jan. 6 trying to defend our democracy. ",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [
+        "United States Capitol Police",
+        "Republican Party",
+        "House Select Committee to Investigate the January 6th Attack"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Gonell, Aquilino"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author, Aquilino Gonell, a member of the Capitol Police, was injured during the Jan. 6 riot.",
+          "copyright": "Andrew Mangum for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10gonell_1/10gonell_1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10gonell_1/10gonell_1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10gonell_1/10gonell_1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e8600dfd-8e35-59d6-b240-9cb4e96f7bd1",
+      "url": "https://www.nytimes.com/2022/07/08/travel/travel-tips-flight-attendant.html",
+      "id": 100000008431499,
+      "asset_id": 100000008431499,
+      "source": "New York Times",
+      "published_date": "2022-07-08",
+      "updated": "2022-07-15 17:49:54",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Content Type: Service;Flight Attendants;Airlines and Airplanes;Delays (Transportation);Travel and Vacations;United States",
+      "column": null,
+      "byline": "By Kristie Koerbel",
+      "type": "Article",
+      "title": "‘A One-Hour Layover Is Not Enough Anymore’: A Flight Attendant’s Tips on Surviving Travel Now",
+      "abstract": "In two decades of flying, things have never been as stressful as they are now, a cabin insider says. Here, her tips from 30,000 feet for avoiding airline chaos this summer.",
+      "des_facet": [
+        "Content Type: Service",
+        "Flight Attendants",
+        "Airlines and Airplanes",
+        "Delays (Transportation)",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Hannah Agosta",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/14/travel/08flight-attendant-illo/08flight-attendant-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/14/travel/08flight-attendant-illo/08flight-attendant-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/14/travel/08flight-attendant-illo/08flight-attendant-illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4372efaa-f5bd-59cb-8820-41982a4e0472",
+      "url": "https://www.nytimes.com/2022/07/12/us/politics/trump-approval-polling-2024.html",
+      "id": 100000008437118,
+      "asset_id": 100000008437118,
+      "source": "New York Times",
+      "published_date": "2022-07-12",
+      "updated": "2022-07-13 09:40:46",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Presidential Election of 2020;Polls and Public Opinion;Voting and Voters;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;DeSantis, Ron;Republican Party;Florida",
+      "column": null,
+      "byline": "By Michael C. Bender",
+      "type": "Article",
+      "title": "Half of G.O.P. Voters Ready to Leave Trump Behind, Poll Finds",
+      "abstract": "Far from consolidating his support, the former president appears weakened in his party, especially with younger and college-educated Republicans. Gov. Ron DeSantis of Florida is the most popular alternative.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Voting and Voters",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "DeSantis, Ron"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump at a rally in Anchorage last weekend.",
+          "copyright": "Ash Adams for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/11/multimedia/00pol-poll-gop-trump/00pol-poll-gop-trump-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/11/multimedia/00pol-poll-gop-trump/00pol-poll-gop-trump-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/11/multimedia/00pol-poll-gop-trump/00pol-poll-gop-trump-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b5f84dbf-110b-50f6-89bd-29ccb9268c27",
+      "url": "https://www.nytimes.com/2022/07/10/us/croydon-free-state-politics.html",
+      "id": 100000008431452,
+      "asset_id": 100000008431452,
+      "source": "New York Times",
+      "published_date": "2022-07-10",
+      "updated": "2022-07-12 15:06:17",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Local Government;Budgets and Budgeting;Education (K-12);School Boards;Project Democracy;Free State Project;Croydon (NH)",
+      "column": null,
+      "byline": "By Dan Barry",
+      "type": "Article",
+      "title": "One Small Step for Democracy in a ‘Live Free or Die’ Town",
+      "abstract": "A cautionary tale from Croydon, N.H., where one man tried to foist a change so drastic it jolted a community out of political indifference.",
+      "des_facet": [
+        "Local Government",
+        "Budgets and Budgeting",
+        "Education (K-12)",
+        "School Boards",
+        "Project Democracy"
+      ],
+      "org_facet": [
+        "Free State Project"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Croydon (NH)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Croydon town meeting in March that began as fairly routine. It didn’t end that way.",
+          "copyright": "James M. Patterson/Valley News",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10croydon-meeting/10croydon-meeting-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10croydon-meeting/10croydon-meeting-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10croydon-meeting/10croydon-meeting-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/96f96cec-72cd-58db-b59e-0bf2a84b7ce7",
+      "url": "https://www.nytimes.com/2022/07/08/books/susie-steiner-dead.html",
+      "id": 100000008434022,
+      "asset_id": 100000008434022,
+      "source": "New York Times",
+      "published_date": "2022-07-08",
+      "updated": "2022-07-13 12:54:32",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Deaths (Obituaries);Writing and Writers;Books and Literature;Steiner, Susie (Author);Great Britain",
+      "column": null,
+      "byline": "By Alex Williams",
+      "type": "Article",
+      "title": "Susie Steiner, Author of Acclaimed British Crime Novels, Dies at 51",
+      "abstract": "Her books found a worldwide audience, but while she wrote them she had to contend with the loss of her sight and the diagnosis of a brain tumor.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Writing and Writers",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Steiner, Susie (Author)"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Susie Steiner, whose Manon Bradshaw detective novels became popular both in England and abroad, in an undated photo.",
+          "copyright": "Jonathan Ring",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08Steiner1/08Steiner1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08Steiner1/08Steiner1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08Steiner1/08Steiner1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/294e256d-fcc0-584d-8c61-81cd958b7aa0",
+      "url": "https://www.nytimes.com/2022/07/10/science/nasa-webb-telescope-images.html",
+      "id": 100000008436348,
+      "asset_id": 100000008436348,
+      "source": "New York Times",
+      "published_date": "2022-07-10",
+      "updated": "2022-07-12 08:42:33",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Space and Astronomy;Stars and Galaxies;Telescopes and Observatories;James Webb Space Telescope;National Aeronautics and Space Administration",
+      "column": null,
+      "byline": "By Dennis Overbye",
+      "type": "Article",
+      "title": "Goose Bumps Build for the Webb’s First Snapshots of the Universe",
+      "abstract": "NASA picked five new images of scenes from around the universe that it hopes will knock the public’s socks off. Get ready for astronomical records to be broken.",
+      "des_facet": [
+        "Space and Astronomy",
+        "Stars and Galaxies",
+        "Telescopes and Observatories",
+        "James Webb Space Telescope"
+      ],
+      "org_facet": [
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adriana Manrique Gutierrez/NASA",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/science/10webb-setup-jwst/10webb-setup-jwst-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/science/10webb-setup-jwst/10webb-setup-jwst-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/science/10webb-setup-jwst/10webb-setup-jwst-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/74e76aa9-2fc6-5b66-9de6-20b8dabe1200",
+      "url": "https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html",
+      "id": 100000008420396,
+      "asset_id": 100000008420396,
+      "source": "New York Times",
+      "published_date": "2022-07-08",
+      "updated": "2022-07-14 03:48:24",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Chinese-Americans;Homeless Persons;Friendship;Immigration and Emigration;Illegal Immigration;Content Type: Personal Profile;audio-positive-happy;audio-negative-sad;New York City",
+      "column": null,
+      "byline": "By Sam Dolnick and An Rong Xu",
+      "type": "Article",
+      "title": "He Had a Dark Secret. It Changed His Best Friend’s Life.",
+      "abstract": "Tin Chin and Mo Lin were inseparable at the homeless shelter. But one of the men wasn’t who he seemed to be.",
+      "des_facet": [
+        "Chinese-Americans",
+        "Homeless Persons",
+        "Friendship",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Content Type: Personal Profile",
+        "audio-positive-happy",
+        "audio-negative-sad"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "An Rong Xu for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/nyregion/08tin-and-mo-promo/08tin-and-mo-11-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/nyregion/08tin-and-mo-promo/08tin-and-mo-promo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/08/nyregion/08tin-and-mo-promo/08tin-and-mo-promo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/494b7673-5e4c-54eb-b24d-cbda06d89c29",
+      "url": "https://www.nytimes.com/2022/07/14/us/alex-murdaugh-indicted.html",
+      "id": 100000008444161,
+      "asset_id": 100000008444161,
+      "source": "New York Times",
+      "published_date": "2022-07-14",
+      "updated": "2022-07-15 11:29:11",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Frauds and Swindling;Legal Profession;Murdaugh, Alex (1968- );Murdaugh, Margaret (d 2021);Murdaugh, Paul (d 2021);Satterfield, Gloria (d 2018);Smith, Curtis Edward (1960- );Islandton (SC);South Carolina",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "South Carolina Lawyer Alex Murdaugh Charged With Killing Wife and Son",
+      "abstract": "Scrutiny of last year’s murders remained high as Mr. Murdaugh was indicted on a series of financial crimes and the police re-examined the deaths of several people associated with the family.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Frauds and Swindling",
+        "Legal Profession"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murdaugh, Alex (1968- )",
+        "Murdaugh, Margaret (d 2021)",
+        "Murdaugh, Paul (d 2021)",
+        "Satterfield, Gloria (d 2018)",
+        "Smith, Curtis Edward (1960- )"
+      ],
+      "geo_facet": [
+        "Islandton (SC)",
+        "South Carolina"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Murdaugh walking into his bond hearing in Varnville, S.C., in 2021.",
+          "copyright": "Mic Smith/FR2 AP, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/14/us/14murdaugh01/14murdaugh01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/14/us/14murdaugh01/14murdaugh01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/14/us/14murdaugh01/14murdaugh01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cbef8074-4719-59b9-b1a7-8df2977fc788",
+      "url": "https://www.nytimes.com/2022/07/12/us/politics/bannon-jan-6-trump.html",
+      "id": 100000008437642,
+      "asset_id": 100000008437642,
+      "source": "New York Times",
+      "published_date": "2022-07-10",
+      "updated": "2022-07-12 09:41:23",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Executive Privilege, Doctrine of;Storming of the US Capitol (Jan, 2021);Bannon, Stephen K;Trump, Donald J;Clark, Justin Reilly (1975- );House Select Committee to Investigate the January 6th Attack",
+      "column": null,
+      "byline": "By Luke Broadwater and Maggie Haberman",
+      "type": "Article",
+      "title": "Bannon, Facing Jail and Fines, Agrees to Testify to Jan. 6 Panel",
+      "abstract": "Stephen K. Bannon, the former Trump campaign manager and White House adviser, made the abrupt about-face after the former president authorized him to talk to investigators.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Executive Privilege, Doctrine of",
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [
+        "House Select Committee to Investigate the January 6th Attack"
+      ],
+      "per_facet": [
+        "Bannon, Stephen K",
+        "Trump, Donald J",
+        "Clark, Justin Reilly (1975- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen K. Bannon’s decision to comply with the Jan. 6 committee’s subpoena came after he was cleared to testify by Mr. Trump.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/us/politics/10dc-bannon-1/10dc-bannon-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/us/politics/10dc-bannon-1/10dc-bannon-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/us/politics/10dc-bannon-1/10dc-bannon-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6a96518c-4a38-51a1-8c28-f5adc0830c0f",
+      "url": "https://www.nytimes.com/2022/07/15/well/live/covid-vaccines-periods.html",
+      "id": 100000008441981,
+      "asset_id": 100000008441981,
+      "source": "New York Times",
+      "published_date": "2022-07-15",
+      "updated": "2022-07-16 13:43:28",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Menstruation;Coronavirus (2019-nCoV);Vaccination and Immunization;Clinical Trials;Content Type: Service;Research;Hormones;Menopause;Immune System;Science Advances (Journal)",
+      "column": null,
+      "byline": "By Knvul Sheikh",
+      "type": "Article",
+      "title": "Largest Study to Date Shows How Covid Vaccines Affect Periods",
+      "abstract": "For some, a side effect of getting vaccinated was a change in menstrual cycles — but experts say there is no cause for alarm.",
+      "des_facet": [
+        "Menstruation",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Clinical Trials",
+        "Content Type: Service",
+        "Research",
+        "Hormones",
+        "Menopause",
+        "Immune System"
+      ],
+      "org_facet": [
+        "Science Advances (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jon Cherry for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-PERIODS-VACCINE1/15WELL-PERIODS-VACCINE1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-PERIODS-VACCINE1/merlin_187714749_17875006-ce24-4d6e-b660-6297f1e46d10-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-PERIODS-VACCINE1/merlin_187714749_17875006-ce24-4d6e-b660-6297f1e46d10-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/02575d62-329f-5a66-b465-2874267376b4",
+      "url": "https://www.nytimes.com/2022/07/10/us/uvalde-injured-teacher-reyes.html",
+      "id": 100000008437201,
+      "asset_id": 100000008437201,
+      "source": "New York Times",
+      "published_date": "2022-07-10",
+      "updated": "2022-07-12 08:38:20",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Uvalde, Tex, Shooting (May 24, 2022);School Shootings and Armed Attacks;Mass Shootings;Reyes, Arnulfo (1977- );Ramos, Salvador (d 2022);Robb Elementary School (Uvalde, Tex);Uvalde (Tex)",
+      "column": null,
+      "byline": "By Edgar Sandoval",
+      "type": "Article",
+      "title": "Inside a Uvalde Classroom: A Taunting Gunman and 78 Minutes of Terror",
+      "abstract": "A teacher who survived the mass shooting recounts the harrowing attack and desperate wait for a rescue.",
+      "des_facet": [
+        "Uvalde, Tex, Shooting (May 24, 2022)",
+        "School Shootings and Armed Attacks",
+        "Mass Shootings"
+      ],
+      "org_facet": [
+        "Robb Elementary School (Uvalde, Tex)"
+      ],
+      "per_facet": [
+        "Reyes, Arnulfo (1977- )",
+        "Ramos, Salvador (d 2022)"
+      ],
+      "geo_facet": [
+        "Uvalde (Tex)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I kept waiting for someone to come,” Arnulfo Reyes, a teacher who was wounded in the shooting at Robb Elementary School, said about the delayed police response.",
+          "copyright": "Tamir Kalifa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/lens/10Uvalde-teacher-1/10Uvalde-teacher-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/lens/10Uvalde-teacher-1/merlin_209830515_c194f61c-4f31-44d8-9b4b-358f46c073d2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/10/lens/10Uvalde-teacher-1/merlin_209830515_c194f61c-4f31-44d8-9b4b-358f46c073d2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

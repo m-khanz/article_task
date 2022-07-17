@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Articles</string>
+    <string name="no_internet_connection">No Internet connection</string>
+    <string name="connected">Connected</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_article_found">No Article found</string>
+</resources>
