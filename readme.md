@@ -16,3 +16,10 @@ There are test cases, which can be seen in both **(test)** and **(androidTest)**
 
 **Test** is for unit testing in which no android frameworks needed.
 **AndroidTest** is for database testing and it requires android framework like context.
+
+<br>
+<p align="center">
+    <img src="Screenshot 1.png" width="180"/>
+    <img src="Screenshot 2.png" width="180"/>
+</p>
+<br>
